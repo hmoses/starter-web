@@ -1,6 +1,9 @@
 # Starter Web
 
 ## Introduction
+adding introdution
 ## Purpose
-added description
+adding purpose
+## Deployment 
 ## How to Contribute
+
