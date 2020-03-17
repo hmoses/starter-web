@@ -8,6 +8,8 @@
 # THANKS
 
     Thank you all!
+	this is new text
+	
 
 # TECHNOLOGY COLOPHON
 
